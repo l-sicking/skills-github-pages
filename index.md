@@ -1,8 +1,10 @@
 ---
 title: Ach herrje
-datePublished: today
-description: 'Vielleicht ...'
 ---
+
+# Und wo ist nun "index"?
+
+- index > README ??
 
 # Hallo du
 
